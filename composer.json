@@ -8,5 +8,25 @@
             "email": "gregory@siwhine.net"
         }
     ],
-    "require": {}
+    "require": {
+        "drupal/drupal": "~7",
+        "drupal/apachesolr": "^1.8",
+        "drupal/apachesolr_search": "^1.8",
+        "drupal/autosave": "^2.2",
+        "drupal/bean": "^1.11",
+        "drupal/bean_admin_ui": "^1.11",
+        "drupal/bean_entitycache": "^1.11",
+        "drupal/bounce": "^1.7",
+        "drupal/chosen": "^1.0",
+        "drupal/clients": "^3.1",
+        "drupal/coffee": "^2.2",
+        "drupal/collapse_text": "^2.4",
+        "drupal/colorbox": "^2.12",
+        "drupal/context": "^3.7",
+        "drupal/context_og": "^2.1",
+        "drupal/ctools": "^1.10",
+        "drupal/current_search": "^1.5",
+        "drupal/customerror": "^1.4",
+        "drupal/date": "^2.9"
+    }
 }
