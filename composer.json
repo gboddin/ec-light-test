@@ -1,0 +1,12 @@
+{
+    "name": "drupal/pt-light",
+    "type": "drupal-profile",
+    "license": "EUPL",
+    "authors": [
+        {
+            "name": "Gregory Boddin",
+            "email": "gregory@siwhine.net"
+        }
+    ],
+    "require": {}
+}
